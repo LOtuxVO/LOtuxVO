@@ -34,3 +34,5 @@
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
+
+> N'hésitez pas à allez faire un tour dans mes repos épinglés et leur mettre une étoile ⭐.
