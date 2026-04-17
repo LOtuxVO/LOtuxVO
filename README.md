@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Texte qui s'ecrit -->  <!-- mauve lavande : B57EDC -->  <!-- vert menthe : 2ECC71 -->  <!-- orange corail : FF7F50 --> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B57EDC&center=true&vCenter=true&width=550&lines=Développeur,+étudiant+et+passionné+!;Explorez+mes+projets+et+mon+univers+!;Codage,+Création+et+Partage+!" alt="TypingSVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B57EDC&center=true&vCenter=true&width=550&lines=Développeur,+étudiant+et+passionné+!;Explorez+mes+projets+et+mon+univers+!;Projets,+Code,+Création+et+Partage+!" alt="TypingSVG"/>
 </div>
 
 ## 📖 En savoir plus
