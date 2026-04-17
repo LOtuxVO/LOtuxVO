@@ -6,9 +6,9 @@
 </div>
 
 ## 📖 En savoir plus
-* 🎓 Étudiant à **Junia Grande École d'Ingénieurs Bordeaux**.
-* 📍 Basé en **France**.
-* 🦊 Passionné par la création de projets et de contenu.
+* 🎓 Étudiant à **Junia Grande École d'Ingénieurs Bordeaux**
+* 📍 Basé en **France**
+* 🦊 Passionné par la création de projets et de contenu
 * 🌸 Ma devise c'est *Keep Pushing*
 
 ## 🔍 Où me retrouver
