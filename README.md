@@ -19,7 +19,7 @@
   </a>
   <!-- Bouton LinkedIn -->
   <a href="https://www.linkedin.com/in/edgar-pullès/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Portfolio Pro">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <!-- Bouton Ko-fi -->
   <a href="https://ko-fi.com/lotuxvo" target="_blank">
