@@ -25,14 +25,6 @@
   <a href="https://ko-fi.com/lotuxvo" target="_blank">
     <img src="https://img.shields.io/badge/ME%20SOUTENIR-FF5E5B?style=flat&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
-  <!-- Bouton Twitch -->
-  <a href="https://www.twitch.tv/lotux_vo" target="_blank">
-    <img src="https://img.shields.io/badge/TWITCH-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <!-- Bouton YouTube -->
-  <a href="https://www.youtube.com/@lotux_vo" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
 </p>
 
 > N'hésitez pas à allez faire un tour dans mes repos épinglés et leur mettre une étoile ⭐ 
