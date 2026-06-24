@@ -7,9 +7,9 @@
 
 ## 📖 En savoir plus
 * 🎓 Étudiant à **Junia Grande École d'Ingénieurs Bordeaux**
-* 📍 Basé en **France**
+* 🇫🇷 Basé en **France**
 * 🦊 Passionné par la création de projets et de contenu
-* 🌸 Ma devise c'est *Keep Pushing*
+* 🌸 Ma devise : Allier technique et passion
 
 ## 🔍 Où me retrouver
 <p align="center">
