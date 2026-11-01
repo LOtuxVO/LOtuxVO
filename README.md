@@ -21,10 +21,6 @@
   <a href="https://www.linkedin.com/in/edgar-pullès/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <!-- Bouton Ko-fi -->
-  <a href="https://ko-fi.com/lotuxvo" target="_blank">
-    <img src="https://img.shields.io/badge/ME%20SOUTENIR-FF5E5B?style=flat&logo=ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
 </p>
 
 > N'hésitez pas à allez faire un tour dans mes repos épinglés et leur mettre une étoile ⭐ 
